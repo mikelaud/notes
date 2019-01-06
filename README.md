@@ -1,7 +1,11 @@
 # Notes
-## 1 Artificial Intelligence
-### 1.1 [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
-#### 1.1.1 [The Logic of Consciousness (Логика сознания)](ai/redozubov/logic_of_consciousness/README.md)
-## 2 Infrastructure
-### 2.1 Serverless
-#### 2.1.1 [Links](infra/serverless/links/README.md)
+## Artificial Intelligence
+### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
+- [The Logic of Consciousness (Логика сознания)](ai/redozubov/logic_of_consciousness/README.md)
+## Infrastructure
+### Serverless
+- [Links](infra/serverless/links/README.md)
+
+## User Interface
+
+- [D3.js, Three.js and CSS 3D Transforms](https://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms) [[demo](http://projects.delimited.io/experiments/d3-threejs/)]
