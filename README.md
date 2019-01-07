@@ -7,7 +7,7 @@
 
 ## English
 
-- [Секреты английских глаголов](https://www.youtube.com/watch?v=ot4vqFRiG8M)
+- [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
 
 ## Infrastructure
 
