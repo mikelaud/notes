@@ -1,9 +1,17 @@
 # Notes
+
 ## Artificial Intelligence
-### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
+
+#### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
 - [The Logic of Consciousness (Логика сознания)](ai/redozubov/logic_of_consciousness/README.md)
+
+## English
+
+- [Секреты английских глаголов](https://www.youtube.com/watch?v=ot4vqFRiG8M)
+
 ## Infrastructure
-### Serverless
+
+#### Serverless
 - [Links](infra/serverless/links/README.md)
 
 ## User Interface
