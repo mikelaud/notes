@@ -17,7 +17,7 @@
 ## User Interface
 
 #### Charts
-- [D3fc - components for building interactive charts with D3](https://d3fc.io/) [[source](https://github.com/d3fc/d3fc)] [[doc](https://d3fc.io/introduction/getting-started.html)] [[demo](https://d3fc.io/examples/)]
+- [d3fc - components for building interactive charts with D3](https://d3fc.io/) [[source](https://github.com/d3fc/d3fc)] [[doc](https://d3fc.io/introduction/getting-started.html)] [[demo](https://d3fc.io/examples/)]
    - [Unboxing D3](https://medium.com/@ColinEberhardt/unboxing-d3-ec3d71196852)
    - [Extending D3 with higher-order components](https://medium.com/@ColinEberhardt/extending-d3-with-higher-order-components-d58cd40b7efd)
    - [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
