@@ -15,7 +15,7 @@
 ## Infrastructure
 
 #### Serverless
-- [Links...](infra/serverless/links/README.md)
+- [Links...](infrastructure/serverless/links/README.md)
 
 ## User Interface
 
