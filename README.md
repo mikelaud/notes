@@ -3,16 +3,19 @@
 ## Artificial Intelligence
 
 #### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
-- [The Logic of Consciousness _(Логика сознания)_](ai/redozubov/logic_of_consciousness/README.md)
+- [The Logic of Consciousness _(Логика сознания)_...](ai/redozubov/logic_of_consciousness/README.md)
 
 ## English
 
 - [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
 
+#### Английский по Драгункину
+- [Настоящий Драгункин...](english/dragunkin/true/README.md)
+
 ## Infrastructure
 
 #### Serverless
-- [Links](infra/serverless/links/README.md)
+- [Links...](infra/serverless/links/README.md)
 
 ## User Interface
 
