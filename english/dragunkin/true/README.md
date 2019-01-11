@@ -6,3 +6,4 @@
    3. [Опасные английские слова](https://www.youtube.com/watch?v=HaNQR2kQzuE)
 
 1. [Неизменяемость английских определений. Множественное число](https://www.youtube.com/watch?v=RXi8POJTQ48)
+2. [Построение английского предложения](https://www.youtube.com/watch?v=9wohLfovsGc)
