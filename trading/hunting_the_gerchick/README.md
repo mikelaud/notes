@@ -5,4 +5,10 @@
 2. [Александр Журавлев, участник конкурса ЛЧИ-2011; Алексей Емельяненко (Krechetov), трейдер](https://www.youtube.com/watch?v=Rk1v_nwHT2U)
 3. [Николай Федоров (Mister Twister), участник конкурса ЛЧИ-2011](https://www.youtube.com/watch?v=5OfLPR2vsh8)
 4. [Сергей Емельянов, трейдер (ник в конкурсе ЛЧИ - Vonayleme)](https://www.youtube.com/watch?v=TjTvJaeU3m4)
-5. [Майя Яроцкая, трейдер (ник Schatzi); Екатерина Силакова, трейдер](https://www.youtube.com/watch?v=PIY9EX5kWXs)
+5. [Женщины-трейдеры: Майя Яроцкая, трейдер (ник Schatzi); Екатерина Силакова, трейдер](https://www.youtube.com/watch?v=PIY9EX5kWXs)
+6. [Слив в ноль. Как справиться с потерями на рынке? Наталья Кирюшкина, трейдер](https://www.youtube.com/watch?v=5m7uJzuL-wg)
+7. [Виктор Оганезов (ник Гугенот), доктор и трейдер-любитель](https://www.youtube.com/watch?v=tCF3pdaY7eU)
+8. [Успешные трейдеры, сексуальные проценты: трейдеры Элвис Марламов и Александр Бутманов](https://www.youtube.com/watch?v=SoZa7QTOkeU)
+9. [Дмитрий Полин (ник Ipatiy Karenin), трейдер на рынке Форекс](https://www.youtube.com/watch?v=ng1A4lQEPc0)
+10. [Трейдеры Василий Олейник и Роман, 123insaider](https://www.youtube.com/watch?v=gB9COyTGrGI)
+
