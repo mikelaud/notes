@@ -1,12 +1,12 @@
 # [TRADINGLAB](https://tradinglab.tech/)
 
-#### [Books](https://tradinglab.tech/knigi)
+#### [Книги](https://tradinglab.tech/knigi)
 
 - [Обзор книги Александра Элдера «Входы и выходы: 15 мастер-классов от профессионалов трейдинга»](https://tradinglab.tech/knigi/obzor-knigi-aleksandra-jeldera-vhody-i-vyhody-15-master-klassov-ot-professionalov-trejdinga.html)
 - [Один хороший трейд. Обзор книги Майка Беллафиоре по внутридневной торговле акциями](https://tradinglab.tech/knigi/odin-horoshij-trejd-obzor-knigi-majka-bellafiore-po-vnutridnevnoj-torgovle-akcijami.html)
 - [Психология трейдинга. Самоучитель трейдера от Бретта Стинбарджера](https://tradinglab.tech/knigi/psihologija-trejdinga-samouchitel-trejdera-ot-breta-stinbardzhera.html)
 
-#### [Trading](https://tradinglab.tech/trading)
+#### [Трейдинг](https://tradinglab.tech/trading)
 
 - [United Traders Derby. Статистика отбора трейдеров](https://tradinglab.tech/trading/united-traders-derby-statistika-otbora-trejderov.html)
 - [Антон Крил. Хеджевые стратегии на основе фундаментального анализа](https://tradinglab.tech/trading/anton-kreil-hedzhevye-strategii-na-osnove-fundamentalnogo-analiza.html)
