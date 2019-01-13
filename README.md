@@ -19,6 +19,7 @@
 
 ## Trading
 
+- [TRADINGLAB...](trading/tradinglab/README.md)
 - [Охота на Герчика...](trading/hunting_the_gerchick/README.md)
 
 ## User Interface
