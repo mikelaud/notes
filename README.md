@@ -19,6 +19,7 @@
 
 ## Technological Singularity
 
+- [Машины создания _(Дрекслер)_](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
 ## Trading
