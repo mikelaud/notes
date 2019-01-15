@@ -36,5 +36,6 @@
    - [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
 - [D3.js, Three.js and CSS 3D Transforms](https://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms) [[fork](https://github.com/mikelaud/d3-threejs)] [[source](https://github.com/sghall/d3-threejs)] [[demo](http://projects.delimited.io/experiments/d3-threejs/)]
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 _(Scott Murray)_](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/)
+   - [D3 and Canvas in 3 steps](https://medium.freecodecamp.org/d3-and-canvas-in-3-steps-8505c8b27444)
 - [React Stockcharts](http://rrag.github.io/react-stockcharts/) [[fork1](https://github.com/mikelaud/react-stockcharts)] [[fork2](https://github.com/mikelaud/react-stockcharts-examples2)] [[source](https://github.com/rrag/react-stockcharts)] [[doc](http://rrag.github.io/react-stockcharts/documentation.html)] [[demo](https://github.com/rrag/react-stockcharts-examples2)]
 - [TechanJS](http://techanjs.org/) [[fork](https://github.com/mikelaud/techan.js)] [[source](https://github.com/andredumas/techan.js)] [[doc](https://github.com/andredumas/techan.js/wiki)] [[demo](https://github.com/andredumas/techan.js/wiki/Gallery)]  
