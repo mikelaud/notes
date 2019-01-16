@@ -22,7 +22,7 @@
 - [Машины создания _(Дрекслер)_](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
-## [Trading](https://en.wikipedia.org/wiki/Trading_strategy)
+## [Trading Strategies](https://en.wikipedia.org/wiki/Trading_strategy)
 
 - [TRADINGLAB...](trading/tradinglab/README.md)
 - [Охота на Герчика...](trading/hunting_the_gerchick/README.md)
