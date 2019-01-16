@@ -17,12 +17,12 @@
 #### Serverless
 - [Links...](infrastructure/serverless/links/README.md)
 
-## Technological Singularity
+## [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
 
 - [Машины создания _(Дрекслер)_](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
-## Trading
+## [Trading](https://en.wikipedia.org/wiki/Trading_strategy)
 
 - [TRADINGLAB...](trading/tradinglab/README.md)
 - [Охота на Герчика...](trading/hunting_the_gerchick/README.md)
