@@ -19,7 +19,7 @@
 
 ## [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
 
-- [Engines of Creation _(Dreksler)_](https://www.amazon.com/gp/product/0385199732) [[en]](http://e-drexler.com/p/06/00/EOC_Cover.html) [[ru]](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)
+- [Engines of Creation _(Drexler)_](https://www.amazon.com/gp/product/0385199732) [[en]](http://e-drexler.com/p/06/00/EOC_Cover.html) [[ru]](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
 ## [Trading Strategies](https://en.wikipedia.org/wiki/Trading_strategy)
