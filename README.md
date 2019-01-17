@@ -1,6 +1,6 @@
 # Notes
 
-## Artificial Intelligence
+## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 #### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
 - [The Logic of Consciousness _(Логика сознания)_...](ai/redozubov/logic_of_consciousness/README.md)
