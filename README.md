@@ -17,6 +17,11 @@
 #### Serverless
 - [Links...](infrastructure/serverless/links/README.md)
 
+## Media
+
+#### Famous photos in public access
+-  [A woman with a Hollerith pantograph punch, the keyboard is for the 1940 US census population card](media/card_puncher.jpg)
+
 ## [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
 
 - [Engines of Creation: The Coming Era of Nanotechnology _(Eric Drexler)_](https://www.amazon.com/gp/product/0385199732) [[en](http://e-drexler.com/p/06/00/EOC_Cover.html)] [[ru](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)]
