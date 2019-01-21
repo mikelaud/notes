@@ -15,7 +15,8 @@
 ## Infrastructure
 
 #### Serverless
-- [Links...](infrastructure/serverless/links/README.md)
+- [Serverless...](infrastructure/serverless/links/README.md)
+- [Using Docker: Developing and Deploying Software with Containers _(Adrian Mouat)_](https://www.amazon.com/gp/product/1491915765)
 
 ## Media
 
