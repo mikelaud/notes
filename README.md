@@ -16,6 +16,7 @@
 
 - [Serverless...](infrastructure/serverless/links/README.md)
 - [Using Docker: Developing and Deploying Software with Containers _(Adrian Mouat)_](https://www.amazon.com/gp/product/1491915765)
+  - [Docker Cookbook: Solutions and Examples for Building Distributed Applications _(Sébastien Goasguen)_](https://www.amazon.com/Docker-Cookbook-Solutions-Distributed-Applications/dp/149191971X)
 
 ## Media
 
