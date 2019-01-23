@@ -32,7 +32,7 @@
 ## [Trading Strategies](https://en.wikipedia.org/wiki/Trading_strategy)
 
 - [TRADINGLAB...](trading/tradinglab/README.md)
-- [Охота на Герчика...](trading/hunting_the_gerchick/README.md)
+- [Hunting the Gerchik...](trading/hunting_the_gerchick/README.md)
 
 ## [User Interface](https://en.wikipedia.org/wiki/User_interface)
 
