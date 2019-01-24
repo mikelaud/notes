@@ -14,6 +14,7 @@
 
 ## Infrastructure
 
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation _(Jez Humble)_](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 - [Serverless...](infrastructure/serverless/links/README.md)
 - [Using Docker: Developing and Deploying Software with Containers _(Adrian Mouat)_](https://www.amazon.com/gp/product/1491915765)
   - [Docker Cookbook: Solutions and Examples for Building Distributed Applications _(Sébastien Goasguen)_](https://www.amazon.com/Docker-Cookbook-Solutions-Distributed-Applications/dp/149191971X)
