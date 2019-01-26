@@ -15,6 +15,7 @@
 ## Infrastructure
 
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation _(Jez Humble)_](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- [Pro Git _(Scott Chacon)_](https://www.amazon.com/gp/product/1484200772)
 - [Serverless...](infrastructure/serverless/links/README.md)
 - [Using Docker: Developing and Deploying Software with Containers _(Adrian Mouat)_](https://www.amazon.com/gp/product/1491915765)
  
