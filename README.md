@@ -14,6 +14,7 @@
 
 ## Infrastructure
 
+- [Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry _(Josh Long)_](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient-dp-1449374646/dp/1449374646)
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation _(Jez Humble)_](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 - [Pro Git _(Scott Chacon)_](https://www.amazon.com/gp/product/1484200772)
 - [Serverless...](infrastructure/serverless/links/README.md)
