@@ -46,3 +46,5 @@
 43. [Словообразование (часть 2)](https://www.youtube.com/watch?v=Yb6LMUq5qp4)
 44. [Определение частей речи в тексте](https://www.youtube.com/watch?v=1p06m1xeRec)
 45. [О двойных отрицаниях](https://www.youtube.com/watch?v=R347SlKIrG0)
+46. [5 нужных "пар слов"](https://www.youtube.com/watch?v=ady_C8A8bbs)
+47. [Оборот "There is ..."](https://www.youtube.com/watch?v=HN7b3BZVO9U)
