@@ -50,5 +50,5 @@
 - [React Stockcharts](http://rrag.github.io/react-stockcharts/) [[fork1](https://github.com/mikelaud/react-stockcharts)] [[fork2](https://github.com/mikelaud/react-stockcharts-examples2)] [[source](https://github.com/rrag/react-stockcharts)] [[doc](http://rrag.github.io/react-stockcharts/documentation.html)] [[demo](https://github.com/rrag/react-stockcharts-examples2)]
 - [TechanJS](http://techanjs.org/) [[fork](https://github.com/mikelaud/techan.js)] [[source](https://github.com/andredumas/techan.js)] [[doc](https://github.com/andredumas/techan.js/wiki)] [[demo](https://github.com/andredumas/techan.js/wiki/Gallery)]  
 
-#### Charts (3D)
+#### Charts (2.5D)
 - [D3.js, Three.js and CSS 3D Transforms](https://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms) [[fork](https://github.com/mikelaud/d3-threejs)] [[source](https://github.com/sghall/d3-threejs)] [[demo](http://projects.delimited.io/experiments/d3-threejs/)]
