@@ -45,6 +45,7 @@
    - [Unboxing D3](https://medium.com/@ColinEberhardt/unboxing-d3-ec3d71196852)
    - [Extending D3 with higher-order components](https://medium.com/@ColinEberhardt/extending-d3-with-higher-order-components-d58cd40b7efd)
    - [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
+- [Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data _(Kyran Dale)_](https://www.amazon.com/Data-Visualization-Python-JavaScript-Transform-dp-1491920513/dp/1491920513/)
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 _(Scott Murray)_](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/)
    - [D3 and Canvas in 3 steps](https://medium.freecodecamp.org/d3-and-canvas-in-3-steps-8505c8b27444)
 - [React Stockcharts](http://rrag.github.io/react-stockcharts/) [[fork1](https://github.com/mikelaud/react-stockcharts)] [[fork2](https://github.com/mikelaud/react-stockcharts-examples2)] [[source](https://github.com/rrag/react-stockcharts)] [[doc](http://rrag.github.io/react-stockcharts/documentation.html)] [[demo](https://github.com/rrag/react-stockcharts-examples2)]
