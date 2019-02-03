@@ -2,11 +2,13 @@
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+#### [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
+
 #### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
 - [The Logic of Consciousness _(Логика сознания)_...](ai/redozubov/logic_of_consciousness/README.md)
 
 ## English
-
 - [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
 
 #### Английский по Драгункину
