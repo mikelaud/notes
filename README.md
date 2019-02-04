@@ -29,6 +29,7 @@
 ## [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
 
 - [Engines of Creation: The Coming Era of Nanotechnology _(Eric Drexler)_](https://www.amazon.com/gp/product/0385199732) [[en](http://e-drexler.com/p/06/00/EOC_Cover.html)] [[ru](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)]
+- [Our Final Invention: Artificial Intelligence and the End of the Human Era _(James Barrat)_](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
 ## [Trading Strategies](https://en.wikipedia.org/wiki/Trading_strategy)
