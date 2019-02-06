@@ -10,6 +10,7 @@
 
 ## Genetic Algorithms
 - [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design _(Richard Dawkins)_](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491)
+  - [Evolution IS a Blind Watchmaker](https://www.youtube.com/watch?v=mcAq9bmCeR0) [[ru](https://www.youtube.com/watch?v=dN_6B1auRV4)]
 
 ## English
 - [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
@@ -30,13 +31,11 @@
 - [Margaret Hamilton standing next to the navigation software that she and her MIT team produced for the Apollo Project](media/margaret_hamilton.jpg)
 
 ## [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
-
 - [Engines of Creation: The Coming Era of Nanotechnology _(Eric Drexler)_](https://www.amazon.com/gp/product/0385199732) [[en](http://e-drexler.com/p/06/00/EOC_Cover.html)] [[ru](http://e-drexler.com/d/06/00/EOC_Russian/eoc.html)]
 - [Our Final Invention: Artificial Intelligence and the End of the Human Era _(James Barrat)_](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
 ## [Trading Strategies](https://en.wikipedia.org/wiki/Trading_strategy)
-
 - [TRADINGLAB...](trading/tradinglab/README.md)
 - [Hunting the Gerchik...](trading/hunting_the_gerchick/README.md)
 
