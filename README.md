@@ -8,7 +8,7 @@
 #### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
 - [The Logic of Consciousness _(Логика сознания)_...](ai/redozubov/logic_of_consciousness/README.md)
 
-## Genetic Algorithms
+## [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design _(Richard Dawkins)_](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491)
   - [Evolution IS a Blind Watchmaker](https://www.youtube.com/watch?v=mcAq9bmCeR0) [[ru](https://www.youtube.com/watch?v=dN_6B1auRV4)]
 
