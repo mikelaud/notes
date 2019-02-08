@@ -10,7 +10,7 @@
 
 ## [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design _(Richard Dawkins)_](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491)
-  - [Evolution IS a Blind Watchmaker](https://www.youtube.com/watch?v=mcAq9bmCeR0) [[ru](https://www.youtube.com/watch?v=dN_6B1auRV4)]
+  - [Evolution IS a Blind Watchmaker](https://www.youtube.com/watch?v=mcAq9bmCeR0) [[en](https://www.youtube.com/watch?v=mcAq9bmCeR0)][[ru](https://www.youtube.com/watch?v=dN_6B1auRV4)]
 
 ## English
 - [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
