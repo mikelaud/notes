@@ -2,15 +2,18 @@
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+#### [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+- [Make Your Own Neural Network _(Tariq Rashid)_](https://www.amazon.com/gp/product/1530826608)
+
+#### [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design _(Richard Dawkins)_](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491)
+  - [Evolution IS a Blind Watchmaker](https://www.youtube.com/watch?v=mcAq9bmCeR0) [[en](https://www.youtube.com/watch?v=mcAq9bmCeR0)][[ru](https://www.youtube.com/watch?v=dN_6B1auRV4)]
+
 #### [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 - [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 
 #### [True Brain Computing](http://truebraincomputing.com/) ([Alexey Redozubov](http://www.aboutbrain.ru/))
 - [The Logic of Consciousness _(Логика сознания)_...](ai/redozubov/logic_of_consciousness/README.md)
-
-## [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design _(Richard Dawkins)_](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491)
-  - [Evolution IS a Blind Watchmaker](https://www.youtube.com/watch?v=mcAq9bmCeR0) [[en](https://www.youtube.com/watch?v=mcAq9bmCeR0)][[ru](https://www.youtube.com/watch?v=dN_6B1auRV4)]
 
 ## English
 - [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
@@ -19,7 +22,6 @@
 - [Настоящий Драгункин...](english/dragunkin/true/README.md)
 
 ## Infrastructure
-
 - [Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry _(Josh Long)_](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient-dp-1449374646/dp/1449374646)
 - [Serverless...](infrastructure/serverless/links/README.md)
 - [Using Docker: Developing and Deploying Software with Containers _(Adrian Mouat)_](https://www.amazon.com/gp/product/1491915765)
