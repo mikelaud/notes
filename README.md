@@ -17,7 +17,7 @@
 #### [True Brain Computing](http://truebraincomputing.com/)
 - [The Logic of Consciousness _(Alexey Redozubov)_...](ai/redozubov/logic_of_consciousness/README.md)
 
-## English
+## [English](https://en.wikipedia.org/wiki/English_language)
 - [Секреты английских глаголов _(Блог Торвальда)_](https://www.youtube.com/watch?v=ot4vqFRiG8M)
 
 #### Английский по Драгункину
