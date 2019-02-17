@@ -1,5 +1,7 @@
 # Notes
 
+- [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die _(Eric Siegel)_](https://www.amazon.com/gp/product/1119145678)
+
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [How to Create a Mind: The Secret of Human Thought Revealed _(Ray Kurzweil)_](https://www.amazon.com/How-Create-Mind-Thought-Revealed-dp-0670025291/dp/0670025291)
 - [On Intelligence _(Jeff Hawkins)_](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562)
