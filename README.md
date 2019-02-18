@@ -1,5 +1,6 @@
 # Notes
 
+- [Big Data: A Revolution That Will Transform How We Live, Work, and Think _(Viktor Mayer-Schönberger)_](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695)
 - [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die _(Eric Siegel)_](https://www.amazon.com/gp/product/1119145678)
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
