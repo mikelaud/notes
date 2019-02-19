@@ -1,6 +1,7 @@
 # Notes
 
 - [Big Data: A Revolution That Will Transform How We Live, Work, and Think _(Viktor Mayer-Schönberger)_](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695)
+- [Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers _(John MacCormick)_](https://www.amazon.com/Nine-Algorithms-That-Changed-Future-ebook/dp/B005Z67EI0)
 - [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die _(Eric Siegel)_](https://www.amazon.com/gp/product/1119145678)
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
