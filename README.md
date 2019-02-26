@@ -2,6 +2,7 @@
 
 - [Artificial Intelligence: A Modern Approach _(Stuart Russell)_](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd-dp-0136042597/dp/0136042597)
 - [Big Data: A Revolution That Will Transform How We Live, Work, and Think _(Viktor Mayer-Schönberger)_](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695)
+- [Competing on Analytics: The New Science of Winning; With a New Introduction _(Thomas H. Davenport)_](https://www.amazon.com/Competing-Analytics-Updated-Introduction-Science/dp/1633693724)
 - [Connectome: How the Brain's Wiring Makes Us Who We Are _(Sebastian Seung)_](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes-dp-0547508182/dp/0547508182)
 - [Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers _(John MacCormick)_](https://www.amazon.com/Nine-Algorithms-That-Changed-Future-ebook/dp/B005Z67EI0)
 - [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die _(Eric Siegel)_](https://www.amazon.com/gp/product/1119145678)
