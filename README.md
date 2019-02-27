@@ -1,5 +1,6 @@
 # Notes
 
+- [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
 - [Artificial Intelligence: A Modern Approach _(Stuart Russell)_](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd-dp-0136042597/dp/0136042597)
 - [Big Data: A Revolution That Will Transform How We Live, Work, and Think _(Viktor Mayer-Schönberger)_](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695)
 - [Competing on Analytics: The New Science of Winning; With a New Introduction _(Thomas H. Davenport)_](https://www.amazon.com/Competing-Analytics-Updated-Introduction-Science/dp/1633693724)
