@@ -7,6 +7,7 @@
 - [Connectome: How the Brain's Wiring Makes Us Who We Are _(Sebastian Seung)_](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes-dp-0547508182/dp/0547508182)
 - [Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers _(John MacCormick)_](https://www.amazon.com/Nine-Algorithms-That-Changed-Future-ebook/dp/B005Z67EI0)
 - [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die _(Eric Siegel)_](https://www.amazon.com/gp/product/1119145678)
+- [Superintelligence: Paths, Dangers, Strategies _(Nick Bostrom)_](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-dp-0199678111/dp/0199678111)
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution _(Walter Isaacson)_](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X)
 - [The Long Tail: Why the Future of Business is Selling Less of More _(Chris Anderson)_](https://www.amazon.com/Long-Tail-Future-Business-Selling/dp/1401302378)
 
