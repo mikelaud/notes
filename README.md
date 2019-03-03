@@ -12,6 +12,7 @@
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution _(Walter Isaacson)_](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X)
 - [The Long Tail: Why the Future of Business is Selling Less of More _(Chris Anderson)_](https://www.amazon.com/Long-Tail-Future-Business-Selling/dp/1401302378)
 - [The Signal and the Noise: Why So Many Predictions Fail-But Some Don't _(Nate Silver)_](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-But-dp-159420411X/dp/159420411X)
+- [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information _(David Marr)_](https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621)
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [How to Create a Mind: The Secret of Human Thought Revealed _(Ray Kurzweil)_](https://www.amazon.com/How-Create-Mind-Thought-Revealed-dp-0670025291/dp/0670025291)
