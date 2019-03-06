@@ -44,7 +44,7 @@
  
 ## Media
 
-#### Famous public domain photos
+#### [Famous public domain photos](https://en.wikipedia.org/wiki/Public_domain)
 - [A woman with a Hollerith pantograph punch, the keyboard is for the 1940 US census population card](media/card_puncher.jpg)
 - [Margaret Hamilton standing next to the navigation software that she and her MIT team produced for the Apollo Project](media/margaret_hamilton.jpg)
 
