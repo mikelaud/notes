@@ -62,7 +62,7 @@
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages _(Tony Parisi)_](https://www.amazon.com/gp/product/1449362966/)
 - [WebGL: Up and Running: Building 3D Graphics for the Web _(Tony Parisi)_](https://www.amazon.com/WebGL-Running-Building-Graphics-Web-dp-144932357X/dp/144932357X/)
 
-#### Charts (2D)
+#### [Charts (2D)](https://en.wikipedia.org/wiki/Two-dimensional_graph)
 - [d3fc - components for building interactive charts with D3](https://d3fc.io/) [[fork](https://github.com/mikelaud/d3fc)] [[source](https://github.com/d3fc/d3fc)] [[doc](https://d3fc.io/introduction/getting-started.html)] [[demo](https://d3fc.io/examples/)]
    - [Unboxing D3](https://medium.com/@ColinEberhardt/unboxing-d3-ec3d71196852)
    - [Extending D3 with higher-order components](https://medium.com/@ColinEberhardt/extending-d3-with-higher-order-components-d58cd40b7efd)
