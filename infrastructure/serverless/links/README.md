@@ -5,3 +5,4 @@
 - [Serverless #2: Наносервисы?](https://www.youtube.com/watch?v=L_Jk4MKoggU)
 - [Serverless #3. Проблемы](https://www.youtube.com/watch?v=3g05vv96pJI)
 - [Serverless #4. Обзор платформ](https://www.youtube.com/watch?v=OH1Ttf99JOo)
+- [Serverless #5. Изоляты](https://www.youtube.com/watch?v=ZAeI6_rhRiA)
