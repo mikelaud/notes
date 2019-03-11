@@ -1,5 +1,9 @@
 # Notes
 
+#### [Advances in Financial Machine Learning _(Marcos Lopez de Prado)_](https://www.amazon.com/dp/1119482089)
+- []()
+
+#### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
 - [Artificial Intelligence: A Modern Approach _(Stuart Russell)_](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd-dp-0136042597/dp/0136042597)
 - [Big Data: A Revolution That Will Transform How We Live, Work, and Think _(Viktor Mayer-Schönberger)_](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695)
@@ -18,7 +22,6 @@
 - [How to Create a Mind: The Secret of Human Thought Revealed _(Ray Kurzweil)_](https://www.amazon.com/How-Create-Mind-Thought-Revealed-dp-0670025291/dp/0670025291)
 - [On Intelligence _(Jeff Hawkins)_](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562)
 - [Our Final Invention: Artificial Intelligence and the End of the Human Era _(James Barrat)_](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
-- [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [The Sciences of the Artificial _(Herbert A. Simon)_](https://www.amazon.com/Sciences-Artificial-Herbert-Simon-1996-10-01-dp-B01JXOD0UU/dp/B01JXOD0UU)
 
 #### [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
