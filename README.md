@@ -4,6 +4,7 @@
 - [http://www.quantresearch.org/](http://www.quantresearch.org/)
   - [Quantitative Meta-Strategies _(Practical Applications, Institutional Investor Journals, Spring 2015, Forthcoming)_](http://ssrn.com/abstract=2547325)
   - [The Sharpe Ratio Efficient Frontier _(Journal of Risk, Vol. 15, No. 2, Winter 2012/13)_](http://ssrn.com/abstract=1821643)
+  - [An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization _(Algorithms, 6(1), pp.169-196, 2013)_](http://ssrn.com/abstract=2197616)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
