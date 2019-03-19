@@ -5,6 +5,7 @@
   - [Quantitative Meta-Strategies](http://ssrn.com/abstract=2547325)
   - Portfolio Optimization
     - [The Sharpe ratio Efficient Frontier (SEF)](http://ssrn.com/abstract=1821643)
+    - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
     - [Open-source implementation of CLA](http://ssrn.com/abstract=2197616)
     - [Hierarchical Risk Parity (HRP) _(Machine Learning)_](http://ssrn.com/abstract=2708678)
   - Strategy Selection
