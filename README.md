@@ -13,6 +13,7 @@
     - [Optimal Significance Level (OSL) _(Machine Learning, Meta-Research)_](https://ssrn.com/abstract=3193697)
     - [Combinatorial Purged Cross-Validation (CPCV) _(Machine Learning, Meta-Research)_](https://www.amazon.com/dp/1119482089)
     - [Probability of Backtest Overfitting (PBO) _(Meta-Research)_](http://ssrn.com/abstract=2326253)
+    - [Minimum Backtest Length (MinBTL)](http://ssrn.com/abstract=2308659)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
