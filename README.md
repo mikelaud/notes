@@ -3,6 +3,8 @@
 #### [Advances in Financial Machine Learning _(Marcos Lopez de Prado)_](https://www.amazon.com/dp/1119482089)
 - [http://www.quantresearch.org/](http://www.quantresearch.org/)
   - [Quantitative Meta-Strategies](http://ssrn.com/abstract=2547325)
+  - Market Microstructure
+    - [Order Imbalance Bars (OIB)](https://www.amazon.com/dp/1119482089)
   - Portfolio Optimization
     - [The Sharpe ratio Efficient Frontier (SEF)](http://ssrn.com/abstract=1821643)
     - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
