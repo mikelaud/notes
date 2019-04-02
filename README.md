@@ -6,6 +6,7 @@
   - Market Microstructure
     - [Order Imbalance Bars (OIB)](https://www.amazon.com/dp/1119482089)
     - [Volume-Synchronized Probability of Informed Trading (VPIN)](http://ssrn.com/abstract=1695596)
+    - [Bulk Volume Classification of Trading Activity (BVC)](http://ssrn.com/abstract=1989555)
   - Portfolio Optimization
     - [The Sharpe ratio Efficient Frontier (SEF)](http://ssrn.com/abstract=1821643)
     - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
