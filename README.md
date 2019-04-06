@@ -3,6 +3,8 @@
 #### [Advances in Financial Machine Learning _(Marcos Lopez de Prado)_](https://www.amazon.com/dp/1119482089)
 - [http://www.quantresearch.org/](http://www.quantresearch.org/)
   - [Quantitative Meta-Strategies](http://ssrn.com/abstract=2547325)
+  - Execution, Trading
+    - [Optimal Execution Horizon (OEH)](http://ssrn.com/abstract=2038387)
   - Market Microstructure
     - [Order Imbalance Bars (OIB)](https://www.amazon.com/dp/1119482089)
     - [Volume-Synchronized Probability of Informed Trading (VPIN)](http://ssrn.com/abstract=1695596)
