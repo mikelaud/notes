@@ -5,6 +5,7 @@
   - [Quantitative Meta-Strategies](http://ssrn.com/abstract=2547325)
   - Execution, Trading
     - [Optimal Execution Horizon (OEH)](http://ssrn.com/abstract=2038387)
+    - [Optimal Trading Strategies (OTRs) _Operations Research_](http://arxiv.org/abs/1408.1159)
   - Market Microstructure
     - [Order Imbalance Bars (OIB)](https://www.amazon.com/dp/1119482089)
     - [Volume-Synchronized Probability of Informed Trading (VPIN)](http://ssrn.com/abstract=1695596)
