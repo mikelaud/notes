@@ -20,6 +20,8 @@
     - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
     - [Open-source implementation of CLA](http://ssrn.com/abstract=2197616)
     - [Hierarchical Risk Parity (HRP) _(Machine Learning)_](http://ssrn.com/abstract=2708678)
+  - Risk Management
+    - [Drawdown and Time-Under-Water modeling (DD, TuW)](http://ssrn.com/abstract=641702)
   - Strategy Selection
     - [The "False Strategy" theorem _(Meta-Research)_](https://ssrn.com/abstract=3221798)
     - [Optimal Significance Level (OSL) _(Machine Learning, Meta-Research)_](https://ssrn.com/abstract=3193697)
