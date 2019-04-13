@@ -11,8 +11,9 @@
     - [Volume-Synchronized Probability of Informed Trading (VPIN)](http://ssrn.com/abstract=1695596)
     - [Bulk Volume Classification of Trading Activity (BVC)](http://ssrn.com/abstract=1989555)
     - [The Market Maker Asymmetric Payoff Dilemma](http://ssrn.com/abstract=1748633)
-  - Operations Research
-    - [New Algorithm for the Estimation of Mixtures of Gaussians (EF3M)](http://ssrn.com/abstract=1931734)
+  - Other
+    - [New Algorithm for the Estimation of Mixtures of Gaussians (EF3M) _(Operations Research)_](http://ssrn.com/abstract=1931734)
+    - [Covariance Clustering Algorithm _(Spectral Theory)_](http://ssrn.com/abstract=2066170)
   - Portfolio Management
     - [Advanced Hedging methods (DFO, BTCD) _(Trading)_](http://ssrn.com/abstract=1906489)
     - [Balanced Baskets (MMSC) _(Trading)_](http://ssrn.com/abstract=2066170)
