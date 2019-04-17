@@ -19,6 +19,7 @@
     - [Advanced Hedging methods (DFO, BTCD) _(Trading)_](http://ssrn.com/abstract=1906489)
     - [Balanced Baskets (MMSC) _(Trading)_](http://ssrn.com/abstract=2066170)
     - [Optimal Risk Budgeting under a Finite Investment Horizon _(Trading)_](http://ssrn.com/abstract=2364092)
+    - [Kinetic Component Analysis (KCA) _(Control Theory, Dynamic Systems)_](http://ssrn.com/abstract=2422183)
   - Portfolio Optimization
     - [The Sharpe ratio Efficient Frontier (SEF)](http://ssrn.com/abstract=1821643)
     - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
