@@ -30,7 +30,6 @@
   - Strategy Selection
     - [The "False Strategy" theorem _(Meta-Research)_](https://ssrn.com/abstract=3221798)
     - [Optimal Significance Level (OSL) _(Machine Learning, Meta-Research)_](https://ssrn.com/abstract=3193697)
-    - [Combinatorial Purged Cross-Validation (CPCV) _(Machine Learning, Meta-Research)_](https://www.amazon.com/dp/1119482089)
     - [Probability of Backtest Overfitting (PBO) _(Meta-Research)_](http://ssrn.com/abstract=2326253)
     - [Minimum Backtest Length (MinBTL)](http://ssrn.com/abstract=2308659)
     - [The Strategy Approval Theorem (or Sharpe ratio Indifference Curve)](http://ssrn.com/abstract=2003638)
@@ -40,6 +39,8 @@
     - [Deflated Sharpe Ratio (DSR) _(Meta-Research)_](http://ssrn.com/abstract=2460551)
     - [Minimum Track Record Length (MinTRL)](http://ssrn.com/abstract=1821643)
     - [Probability of Divergence (PoD)](http://ssrn.com/abstract=1931734)
+  - Publications
+    - [Detection of False Investment Strategies Using Unsupervised Learning Methods](https://ssrn.com/abstract=3167017)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
