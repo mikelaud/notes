@@ -21,10 +21,10 @@
     - [Optimal Risk Budgeting under a Finite Investment Horizon _(Trading)_](http://ssrn.com/abstract=2364092)
     - [Kinetic Component Analysis (KCA) _(Control Theory, Dynamic Systems)_](http://ssrn.com/abstract=2422183)
   - Portfolio Optimization
-    - [The Sharpe ratio Efficient Frontier (SEF)](http://ssrn.com/abstract=1821643)
-    - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
-    - [Open-source implementation of CLA](http://ssrn.com/abstract=2197616)
     - [Hierarchical Risk Parity (HRP) _(Machine Learning)_](http://ssrn.com/abstract=2708678)
+    - [Open-source implementation of CLA](http://ssrn.com/abstract=2197616)
+    - [Quantum Portfolio Optimization Algorithm](http://ssrn.com/abstract=2649376)
+    - [The Sharpe ratio Efficient Frontier (SEF)](http://ssrn.com/abstract=1821643)
   - Risk Management
     - [Drawdown and Time-Under-Water modeling (DD, TuW)](http://ssrn.com/abstract=641702)
   - Strategy Selection
