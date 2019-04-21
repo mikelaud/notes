@@ -41,6 +41,7 @@
     - [Probability of Divergence (PoD)](http://ssrn.com/abstract=1931734)
   - Publications
     - [Detection of False Investment Strategies Using Unsupervised Learning Methods](https://ssrn.com/abstract=3167017)
+    - [Optimal Risk Budgeting Under a Finite Investment Horizon](http://ssrn.com/abstract=2364092)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
