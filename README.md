@@ -45,6 +45,7 @@
     - [A Data Science Solution to the Multiple-Testing Crisis in Financial Research](https://ssrn.com/abstract=3177057)
     - [Order from Chaos: How Data Science Is Revolutionizing Investment Practice](https://ssrn.com/abstract=3246407)
     - [Being Honest in Backtest Reporting: A Template For Disclosing Multiple Tests](https://ssrn.com/abstract=3232452)
+    - [How Hard is to Pick the Right Model?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3044740)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
