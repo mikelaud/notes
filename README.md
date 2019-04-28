@@ -48,6 +48,7 @@
     - [How Hard is to Pick the Right Model?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3044740)
     - [The 10 Reasons Most Machine Learning Funds Fail](https://ssrn.com/abstract=3104816)
     - [Evaluation and Ranking of Market Forecasters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2944853)
+    - [Machine Learning Funds and Investment Malpractice](https://www.law.ox.ac.uk/business-law-blog/blog/2018/03/machine-learning-funds-and-investment-malpractice)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
