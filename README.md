@@ -51,6 +51,7 @@
     - [Machine Learning Funds and Investment Malpractice](https://www.law.ox.ac.uk/business-law-blog/blog/2018/03/machine-learning-funds-and-investment-malpractice)
     - [Who needs a Newtonian Finance?](https://ssrn.com/abstract=3104826)
     - [The Probability of Backtest Overfitting](http://ssrn.com/abstract=2326253)
+    - [Finance as an Industrial Science](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010799)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
