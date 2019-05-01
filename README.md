@@ -52,6 +52,8 @@
     - [Who needs a Newtonian Finance?](https://ssrn.com/abstract=3104826)
     - [The Probability of Backtest Overfitting](http://ssrn.com/abstract=2326253)
     - [Finance as an Industrial Science](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010799)
+    - [Stock portfolio design and backtest overfitting](http://ssrn.com/abstract=2739335)
+    - [Solving the Optimal Trading Trajectory Problem Using a Quantum Annealer](http://ssrn.com/abstract=2649376)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
