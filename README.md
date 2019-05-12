@@ -59,6 +59,7 @@
     - [Building Diversified Portfolios that Outperform Out-Of-Sample](http://ssrn.com/abstract=2708678)
     - [Algorithmic and High Frequency Trading](http://www.tandfonline.com/doi/full/10.1080/14697688.2016.1143619)
     - [Discerning Information From Trade Data](http://ssrn.com/abstract=1989555)
+    - [Backtest Overfitting in Financial Markets](http://ssrn.com/abstract=2731886)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
