@@ -67,6 +67,7 @@
     - [Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-Of-Sample Performance](http://ssrn.com/abstract=2308659)
     - [A Mixture of Gaussians Approach to Mathematical Portfolio Oversight: The EF3M Algorithm](http://ssrn.com/abstract=1931734)
     - [The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality](http://ssrn.com/abstract=2460551)
+    - [Stochastic Flow Diagrams](http://ssrn.com/abstract=2379314)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
