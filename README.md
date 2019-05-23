@@ -69,6 +69,7 @@
     - [The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality](http://ssrn.com/abstract=2460551)
     - [Stochastic Flow Diagrams](http://ssrn.com/abstract=2379314)
     - [Exploring Irregular Time Series Through the Non-Uniform Fourier Transform](http://ssrn.com/abstract=2487656)
+    - [VPIN and the Flash Crash: A Rejoinder](http://ssrn.com/abstract=2062450)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
