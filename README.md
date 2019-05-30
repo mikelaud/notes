@@ -75,6 +75,7 @@
     - [The Strategy Approval Decision: A Sharpe Ratio Indifference Curve Approach](http://ssrn.com/abstract=2003638)
     - [The Sharpe Ratio Efficient Frontier](http://ssrn.com/abstract=1821643)
     - [Balanced Baskets: A new approach to Trading and Hedging Risks](http://ssrn.com/abstract=2066170)
+    - [The Volume Clock: Insights into the High Frequency Paradigm](http://ssrn.com/abstract=2034858)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
