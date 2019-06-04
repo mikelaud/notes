@@ -79,6 +79,7 @@
     - [Flow Toxicity and Liquidity in a High Frequency World](http://ssrn.com/abstract=1695596)
     - [Advances in Cointegration and Subset Correlation Hedging Methods](http://ssrn.com/abstract=1906489)
     - [The Exchange of Flow Toxicity](http://ssrn.com/abstract=1748633)
+    - [The Microstructure of the ‘Flash Crash’: Flow Toxicity, Liquidity Crashes and the Probability of Informed Trading](http://ssrn.com/abstract=1695041)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
