@@ -85,6 +85,7 @@
     - [Beyond Econometrics: A Roadmap Towards Financial Machine Learning](https://ssrn.com/abstract=3365282)
     - [Ten Applications of Financial Machine Learning](https://ssrn.com/abstract=3365271)
     - [Do Financial Gurus Produce Reliable Forecasts?](https://ssrn.com/abstract=3339657)
+    - [The False Strategy Theorem: A Financial Application of Experimental Mathematics](https://ssrn.com/abstract=3221798)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
