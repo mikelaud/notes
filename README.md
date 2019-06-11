@@ -87,6 +87,7 @@
     - [Do Financial Gurus Produce Reliable Forecasts?](https://ssrn.com/abstract=3339657)
     - [The False Strategy Theorem: A Financial Application of Experimental Mathematics](https://ssrn.com/abstract=3221798)
     - [Confidence and Power of the Sharpe Ratio under Multiple Testing](https://ssrn.com/abstract=3193697)
+    - [Intraday Patterns in Natural Gas Futures: Extracting Signals from High-Frequency Trading Data](http://ssrn.com/abstract=2657224)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
