@@ -89,6 +89,7 @@
     - [Confidence and Power of the Sharpe Ratio under Multiple Testing](https://ssrn.com/abstract=3193697)
     - [Intraday Patterns in Natural Gas Futures: Extracting Signals from High-Frequency Trading Data](http://ssrn.com/abstract=2657224)
     - [Backtest Overfitting Demonstration Tool: An Online Interface](http://ssrn.com/abstract=2597421)
+    - [Generalized Optimal Trading Trajectories: A Financial Quantum Computing Application](http://ssrn.com/abstract=2575184)
 
 #### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
 - [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
