@@ -81,6 +81,8 @@
     - [The Exchange of Flow Toxicity](http://ssrn.com/abstract=1748633)
     - [The Microstructure of the ‘Flash Crash’: Flow Toxicity, Liquidity Crashes and the Probability of Informed Trading](http://ssrn.com/abstract=1695041)
     - [Measuring Loss Potential of Hedge Fund Strategies](http://ssrn.com/abstract=641702)
+  - Peer-Reviewed Academic Book
+    - [Special Guide to Applied Data Sciences in Finance](http://joi.iijournals.com/content/25/3/2)
   - Working Papers and Books
     - [Beyond Econometrics: A Roadmap Towards Financial Machine Learning](https://ssrn.com/abstract=3365282)
     - [Ten Applications of Financial Machine Learning](https://ssrn.com/abstract=3365271)
