@@ -83,6 +83,7 @@
     - [Measuring Loss Potential of Hedge Fund Strategies](http://ssrn.com/abstract=641702)
   - Peer-Reviewed Academic Book
     - [Special Guide to Applied Data Sciences in Finance](http://joi.iijournals.com/content/25/3/2)
+    - [Statistical Overfitting and Backtest Performance, in Risk-Based and Factor Investing](http://ssrn.com/abstract=2507040)
   - Working Papers and Books
     - [Beyond Econometrics: A Roadmap Towards Financial Machine Learning](https://ssrn.com/abstract=3365282)
     - [Ten Applications of Financial Machine Learning](https://ssrn.com/abstract=3365271)
