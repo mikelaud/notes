@@ -84,6 +84,7 @@
   - Peer-Reviewed Academic Book
     - [Special Guide to Applied Data Sciences in Finance](http://joi.iijournals.com/content/25/3/2)
     - [Statistical Overfitting and Backtest Performance, in Risk-Based and Factor Investing](http://ssrn.com/abstract=2507040)
+    - [High Frequency Trading: New Realities for Traders, Markets and Regulators](http://riskbooks.com/book-high-frequency-trading)
   - Working Papers and Books
     - [Beyond Econometrics: A Roadmap Towards Financial Machine Learning](https://ssrn.com/abstract=3365282)
     - [Ten Applications of Financial Machine Learning](https://ssrn.com/abstract=3365271)
