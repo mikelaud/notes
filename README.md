@@ -86,6 +86,7 @@
     - [Statistical Overfitting and Backtest Performance, in Risk-Based and Factor Investing](http://ssrn.com/abstract=2507040)
     - [High Frequency Trading: New Realities for Traders, Markets and Regulators](http://riskbooks.com/book-high-frequency-trading)
     - [Advances in High Frequency Strategies](http://www.lulu.com/shop/marcos-m-l%C3%B3pez-de-prado/advances-in-high-frequency-strategies/paperback/product-20341204.html;jsessionid=B28BF26001E8B52ADEC429BC626CC685)
+    - [Invertir en Hedge Funds](http://books.google.com/books?id=hlOHxWdmWF4C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   - Working Papers and Books
     - [Beyond Econometrics: A Roadmap Towards Financial Machine Learning](https://ssrn.com/abstract=3365282)
     - [Ten Applications of Financial Machine Learning](https://ssrn.com/abstract=3365271)
