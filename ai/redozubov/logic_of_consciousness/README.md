@@ -1,4 +1,4 @@
-# Логика сознания
+# Логика сознания _(Алексей Редозубов)_
 
 1. [История изучения мозга](https://www.youtube.com/watch?v=L9lhKGWIcsg)
 2. [Базовые сведения](https://www.youtube.com/watch?v=rDZzxLTPtwE)
