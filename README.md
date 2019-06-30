@@ -79,4 +79,5 @@
 - [D3.js, Three.js and CSS 3D Transforms](https://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms) [[fork](https://github.com/mikelaud/d3-threejs)] [[source](https://github.com/sghall/d3-threejs)] [[demo](http://projects.delimited.io/experiments/d3-threejs/)]
 
 ## TODO
+- [Python для финансовых расчетов _(Ив Хилпиш)_](https://shtonda.blogspot.com/2019/03/python-for-finance-yves-hilpisch.html)
 - [Глубокое обучение: готовые решения _(Давид Осинга)_](http://shtonda.blogspot.com/2018/11/deep-learning-cookbook-practical-recipes.html)
