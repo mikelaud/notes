@@ -77,3 +77,6 @@
 
 #### [Charts (2.5D)](https://en.wikipedia.org/wiki/2.5D)
 - [D3.js, Three.js and CSS 3D Transforms](https://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms) [[fork](https://github.com/mikelaud/d3-threejs)] [[source](https://github.com/sghall/d3-threejs)] [[demo](http://projects.delimited.io/experiments/d3-threejs/)]
+
+## TODO
+- [Глубокое обучение: готовые решения _(Давид Осинга)_](http://shtonda.blogspot.com/2018/11/deep-learning-cookbook-practical-recipes.html)
