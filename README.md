@@ -81,4 +81,5 @@
 ## TODO
 - [Python для финансовых расчетов _(Ив Хилпиш)_](https://shtonda.blogspot.com/2019/03/python-for-finance-yves-hilpisch.html)
 - [Глубокое обучение: готовые решения _(Давид Осинга)_](http://shtonda.blogspot.com/2018/11/deep-learning-cookbook-practical-recipes.html)
+- [Наука о данных: учебный курс _(Стивен С. Скиена)_](https://shtonda.blogspot.com/2017/11/data-science-design-manual-skiena.html)
 - [Нейронные сети и глубокое обучение: учебный курс _(Чару Аггарвал)_](http://shtonda.blogspot.com/2018/11/neural-networks-deep-learning-aggarwal.html)
