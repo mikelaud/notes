@@ -83,3 +83,4 @@
 - [Глубокое обучение: готовые решения _(Давид Осинга)_](http://shtonda.blogspot.com/2018/11/deep-learning-cookbook-practical-recipes.html)
 - [Наука о данных: учебный курс _(Стивен С. Скиена)_](https://shtonda.blogspot.com/2017/11/data-science-design-manual-skiena.html)
 - [Нейронные сети и глубокое обучение: учебный курс _(Чару Аггарвал)_](http://shtonda.blogspot.com/2018/11/neural-networks-deep-learning-aggarwal.html)
+- [Распознавание образов и машинное обучение _(Кристофер М. Бишоп)_](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
