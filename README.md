@@ -1,24 +1,10 @@
 # Notes
 
-#### [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World _(Pedro Domingos)_](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
-- [Algorithms _(Sanjoy Dasgupta)_](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
-- [Artificial Intelligence: A Modern Approach _(Stuart Russell)_](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd-dp-0136042597/dp/0136042597)
-- [Big Data: A Revolution That Will Transform How We Live, Work, and Think _(Viktor Mayer-Schönberger)_](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695)
-- [Competing on Analytics: The New Science of Winning; With a New Introduction _(Thomas H. Davenport)_](https://www.amazon.com/Competing-Analytics-Updated-Introduction-Science/dp/1633693724)
-- [Connectome: How the Brain's Wiring Makes Us Who We Are _(Sebastian Seung)_](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes-dp-0547508182/dp/0547508182)
-- [Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers _(John MacCormick)_](https://www.amazon.com/Nine-Algorithms-That-Changed-Future-ebook/dp/B005Z67EI0)
-- [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die _(Eric Siegel)_](https://www.amazon.com/gp/product/1119145678)
-- [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series) _(Richard S. Sutton)_](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249)
-- [Superintelligence: Paths, Dangers, Strategies _(Nick Bostrom)_](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-dp-0199678111/dp/0199678111)
-- [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution _(Walter Isaacson)_](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X)
-- [The Long Tail: Why the Future of Business is Selling Less of More _(Chris Anderson)_](https://www.amazon.com/Long-Tail-Future-Business-Selling/dp/1401302378)
-- [The Signal and the Noise: Why So Many Predictions Fail-But Some Don't _(Nate Silver)_](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-But-dp-159420411X/dp/159420411X)
-- [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information _(David Marr)_](https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621)
-
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [How to Create a Mind: The Secret of Human Thought Revealed _(Ray Kurzweil)_](https://www.amazon.com/How-Create-Mind-Thought-Revealed-dp-0670025291/dp/0670025291)
 - [On Intelligence _(Jeff Hawkins)_](https://www.amazon.com/Intelligence-Jeff-Hawkins/dp/0805074562)
 - [Our Final Invention: Artificial Intelligence and the End of the Human Era _(James Barrat)_](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
+- [The Master Algorithm _(Pedro Domingos)_](ai/the_master_algorithm/README.md)
 - [The Sciences of the Artificial _(Herbert A. Simon)_](https://www.amazon.com/Sciences-Artificial-Herbert-Simon-1996-10-01-dp-B01JXOD0UU/dp/B01JXOD0UU)
 
 #### [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
