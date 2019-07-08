@@ -40,9 +40,9 @@
 - [Социум _(Джангиров)_ - Бытие техники и сингулярность _(Бескаравайный)_](https://www.youtube.com/watch?v=4exvZzkfq0c)
 
 ## [Trading Strategies](https://en.wikipedia.org/wiki/Trading_strategy)
+- [Hunting the Gerchik...](trading/hunting_the_gerchick/README.md)
 - [Marcos Lopez de Prado...](trading/marcos_lopez_de_prado/README.md)
 - [TRADINGLAB...](trading/tradinglab/README.md)
-- [Hunting the Gerchik...](trading/hunting_the_gerchick/README.md)
 
 ## [User Interface](https://en.wikipedia.org/wiki/User_interface)
 
