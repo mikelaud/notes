@@ -71,4 +71,5 @@
 - [Машинное обучение и безопасность _(Кларенс Чио)_](https://dmkpress.com/catalog/computer/data/978-5-97060-713-8/)
 - [Наука о данных: учебный курс _(Стивен С. Скиена)_](https://shtonda.blogspot.com/2017/11/data-science-design-manual-skiena.html)
 - [Нейронные сети и глубокое обучение: учебный курс _(Чару Аггарвал)_](http://shtonda.blogspot.com/2018/11/neural-networks-deep-learning-aggarwal.html)
+- [Нейросетевые методы в обработке естественного языка _(Йоав Гольдберг)_](https://dmkpress.com/catalog/computer/data/978-5-97060-754-1/)
 - [Распознавание образов и машинное обучение _(Кристофер М. Бишоп)_](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
