@@ -49,3 +49,4 @@
 46. [5 нужных "пар слов"](https://www.youtube.com/watch?v=ady_C8A8bbs)
 47. [Оборот "There is ..."](https://www.youtube.com/watch?v=HN7b3BZVO9U)
 48. [Передача русских глаголов по-английски](https://www.youtube.com/watch?v=Vha6pDHjgxk)
+49. [Передача русских глаголов по-английски (часть 2)](https://www.youtube.com/watch?v=d81qxGW1RAg)
