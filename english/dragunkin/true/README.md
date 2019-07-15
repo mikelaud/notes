@@ -50,3 +50,4 @@
 47. [Оборот "There is ..."](https://www.youtube.com/watch?v=HN7b3BZVO9U)
 48. [Передача русских глаголов по-английски](https://www.youtube.com/watch?v=Vha6pDHjgxk)
 49. [Передача русских глаголов по-английски (часть 2)](https://www.youtube.com/watch?v=d81qxGW1RAg)
+50. [Искажение слов (английских)](https://www.youtube.com/watch?v=D_zex7KcA2Y)
