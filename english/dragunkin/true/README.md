@@ -56,7 +56,8 @@
 
 ## Bonus 2
 
-1. [Искажение слов (английских)](https://www.youtube.com/watch?v=D_zex7KcA2Y)
-2. [Искажение слов (английских) (часть 2)](https://www.youtube.com/watch?v=ZYNX3Nvdc98)
-3. [Опасные и смешные «НЕДОПОНИМАНИЯ»](https://www.youtube.com/watch?v=FBwZkCDC18c)
-4. [Ещё несколько пар английских слов](https://www.youtube.com/watch?v=tOquwJaDaAs)
+1. [Повторение пройденного (1-3 уроки)](https://www.youtube.com/watch?v=XS2Bsu6UMqI)
+2. [Искажение слов (английских)](https://www.youtube.com/watch?v=D_zex7KcA2Y)
+3. [Искажение слов (английских) (часть 2)](https://www.youtube.com/watch?v=ZYNX3Nvdc98)
+4. [Опасные и смешные «НЕДОПОНИМАНИЯ»](https://www.youtube.com/watch?v=FBwZkCDC18c)
+5. [Ещё несколько пар английских слов](https://www.youtube.com/watch?v=tOquwJaDaAs)
