@@ -51,12 +51,13 @@
 
 ## Bonus
 
-1. [Передача русских глаголов по-английски](https://www.youtube.com/watch?v=Vha6pDHjgxk)
-2. [Передача русских глаголов по-английски (часть 2)](https://www.youtube.com/watch?v=d81qxGW1RAg)
+1. [Повторение пройденного (1-3 уроки)](https://www.youtube.com/watch?v=XS2Bsu6UMqI)
+2. [Передача русских глаголов по-английски](https://www.youtube.com/watch?v=Vha6pDHjgxk)
+3. [Передача русских глаголов по-английски (часть 2)](https://www.youtube.com/watch?v=d81qxGW1RAg)
 
 ## Bonus 2
 
-1. [Повторение пройденного (1-3 уроки)](https://www.youtube.com/watch?v=XS2Bsu6UMqI)
+1. [Происхождение английских слов](https://www.youtube.com/watch?v=N1dHAwiolU0)
 2. [Искажение слов (английских)](https://www.youtube.com/watch?v=D_zex7KcA2Y)
 3. [Искажение слов (английских) (часть 2)](https://www.youtube.com/watch?v=ZYNX3Nvdc98)
 4. [Опасные и смешные «НЕДОПОНИМАНИЯ»](https://www.youtube.com/watch?v=FBwZkCDC18c)
