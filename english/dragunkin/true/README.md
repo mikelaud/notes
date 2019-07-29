@@ -62,3 +62,7 @@
 3. [Искажение слов (английских) (часть 2)](https://www.youtube.com/watch?v=ZYNX3Nvdc98)
 4. [Опасные и смешные «НЕДОПОНИМАНИЯ»](https://www.youtube.com/watch?v=FBwZkCDC18c)
 5. [Ещё несколько пар английских слов](https://www.youtube.com/watch?v=tOquwJaDaAs)
+
+## Bonus: ЕГЭ
+
+1. [Всё о ЕГЭ по английскому языку (часть 1)](https://www.youtube.com/watch?v=q4s7iHI-RNY)
