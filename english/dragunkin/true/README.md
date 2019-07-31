@@ -66,3 +66,5 @@
 ## Bonus: ЕГЭ
 
 1. [Всё о ЕГЭ по английскому языку (часть 1)](https://www.youtube.com/watch?v=q4s7iHI-RNY)
+2. [Всё о ЕГЭ по английскому языку (часть 2)](https://www.youtube.com/watch?v=FAhipghB0fo)
+
