@@ -69,4 +69,5 @@
 2. [Всё о ЕГЭ по английскому языку (часть 2)](https://www.youtube.com/watch?v=FAhipghB0fo)
 3. [Всё о ЕГЭ по английскому языку (часть 3)](https://www.youtube.com/watch?v=VNaxDdd3lUU)
 4. [Всё о ЕГЭ по английскому языку (часть 4)](https://www.youtube.com/watch?v=b_1Q9Cu7VvI)
+5. [Всё о ЕГЭ по английскому языку (часть 5)](https://www.youtube.com/watch?v=5IH9JAB0hyo)
 
