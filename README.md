@@ -74,3 +74,6 @@
 - [Нейросетевые методы в обработке естественного языка _(Йоав Гольдберг)_](https://dmkpress.com/catalog/computer/data/978-5-97060-754-1/)
 - [Разработка интеллектуальных систем _(Джефф Хултен)_](https://dmkpress.com/catalog/computer/data/978-5-97060-760-2/)
 - [Распознавание образов и машинное обучение _(Кристофер М. Бишоп)_](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
+
+## Александр Чирцов
+- [О математике в физике](https://www.youtube.com/watch?v=BYXwPZ0ncc4)
