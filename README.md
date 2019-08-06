@@ -77,3 +77,4 @@
 
 ## Александр Чирцов
 - [О математике в физике](https://www.youtube.com/watch?v=BYXwPZ0ncc4)
+- [О пространстве, времени и предсказании будущего](https://www.youtube.com/watch?v=VKUwCClf7Oo)
