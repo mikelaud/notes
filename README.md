@@ -78,3 +78,4 @@
 ## Александр Чирцов
 - [О математике в физике](https://www.youtube.com/watch?v=BYXwPZ0ncc4)
 - [О пространстве, времени и предсказании будущего](https://www.youtube.com/watch?v=VKUwCClf7Oo)
+- [Законы Ньютона - это нетривиально](https://www.youtube.com/watch?v=dIgMzRI6o9c)
