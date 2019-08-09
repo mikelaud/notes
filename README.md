@@ -80,3 +80,4 @@
 - [О пространстве, времени и предсказании будущего](https://www.youtube.com/watch?v=VKUwCClf7Oo)
 - [Законы Ньютона - это нетривиально](https://www.youtube.com/watch?v=dIgMzRI6o9c)
 - [Про силы природы как фундаментальные взаимодействия](https://www.youtube.com/watch?v=3uxxJJ2G3UI)
+- [O законе сохранения](https://www.youtube.com/watch?v=vVG1IfxsSkY)
