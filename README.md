@@ -76,8 +76,9 @@
 - [Распознавание образов и машинное обучение _(Кристофер М. Бишоп)_](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
 
 ## Александр Чирцов
-- [О математике в физике](https://www.youtube.com/watch?v=BYXwPZ0ncc4)
-- [О пространстве, времени и предсказании будущего](https://www.youtube.com/watch?v=VKUwCClf7Oo)
-- [Законы Ньютона - это нетривиально](https://www.youtube.com/watch?v=dIgMzRI6o9c)
-- [Про силы природы как фундаментальные взаимодействия](https://www.youtube.com/watch?v=3uxxJJ2G3UI)
-- [O законе сохранения](https://www.youtube.com/watch?v=vVG1IfxsSkY)
+1. [О математике в физике](https://www.youtube.com/watch?v=BYXwPZ0ncc4)
+2. [О пространстве, времени и предсказании будущего](https://www.youtube.com/watch?v=VKUwCClf7Oo)
+3. [Законы Ньютона - это нетривиально](https://www.youtube.com/watch?v=dIgMzRI6o9c)
+4. [Про силы природы как фундаментальные взаимодействия](https://www.youtube.com/watch?v=3uxxJJ2G3UI)
+5. [O законе сохранения](https://www.youtube.com/watch?v=vVG1IfxsSkY)
+6. [Про закон сохранения механической энергии](https://www.youtube.com/watch?v=UqbNEdOOAkQ)
