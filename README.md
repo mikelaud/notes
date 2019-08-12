@@ -82,3 +82,4 @@
 4. [Про силы природы как фундаментальные взаимодействия](https://www.youtube.com/watch?v=3uxxJJ2G3UI)
 5. [O законе сохранения](https://www.youtube.com/watch?v=vVG1IfxsSkY)
 6. [Про закон сохранения механической энергии](https://www.youtube.com/watch?v=UqbNEdOOAkQ)
+7. [O языке физики и моменте импульса](https://www.youtube.com/watch?v=QDM15IlKjtI)
