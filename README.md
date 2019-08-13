@@ -83,3 +83,4 @@
 5. [O законе сохранения](https://www.youtube.com/watch?v=vVG1IfxsSkY)
 6. [Про закон сохранения механической энергии](https://www.youtube.com/watch?v=UqbNEdOOAkQ)
 7. [O языке физики и моменте импульса](https://www.youtube.com/watch?v=QDM15IlKjtI)
+8. [Всё о моменте импульса](https://www.youtube.com/watch?v=aW0gCOM4Z_c)
