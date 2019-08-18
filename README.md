@@ -86,3 +86,9 @@
 8. [Всё о моменте импульса](https://www.youtube.com/watch?v=aW0gCOM4Z_c)
 9. [Про небесную механику Кеплера и Ньютона](https://www.youtube.com/watch?v=8nhxSaa5V0Y)
 10. [Про вывод тела на орбиту и космические скорости](https://www.youtube.com/watch?v=wJNfBXszz9U)
+
+## UI
+
+### [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
+1. [Уроки Vue JS учим за 1 час для начинающих с нуля](https://www.youtube.com/watch?v=b6Ac0jcqJIg)
+2. [Уроки VUE-CLI 3 и компоненты учим за 1 час для начинающих с нуля](https://www.youtube.com/watch?v=4O1twLpg-7A)
