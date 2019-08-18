@@ -90,5 +90,5 @@
 ## UI
 
 ### [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
-1. [Уроки Vue JS учим за 1 час для начинающих с нуля](https://www.youtube.com/watch?v=b6Ac0jcqJIg)
+1. [Уроки Vue.js учим за 1 час для начинающих с нуля](https://www.youtube.com/watch?v=b6Ac0jcqJIg)
 2. [Уроки VUE-CLI 3 и компоненты учим за 1 час для начинающих с нуля](https://www.youtube.com/watch?v=4O1twLpg-7A)
