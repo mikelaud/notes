@@ -86,6 +86,7 @@
 8. [Всё о моменте импульса](https://www.youtube.com/watch?v=aW0gCOM4Z_c)
 9. [Про небесную механику Кеплера и Ньютона](https://www.youtube.com/watch?v=8nhxSaa5V0Y)
 10. [Про вывод тела на орбиту и космические скорости](https://www.youtube.com/watch?v=wJNfBXszz9U)
+11. [Про абсолютно твердое тело](https://www.youtube.com/watch?v=ZObV49y4S9g)
 
 ## UI
 
