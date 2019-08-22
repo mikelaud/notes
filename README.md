@@ -88,6 +88,7 @@
 10. [Про вывод тела на орбиту и космические скорости](https://www.youtube.com/watch?v=wJNfBXszz9U)
 11. [Про абсолютно твердое тело](https://www.youtube.com/watch?v=ZObV49y4S9g)
 12. [Момент истины о моменте инерции](https://www.youtube.com/watch?v=QZA-yNZ6WQo)
+13. [О теории вероятностей и классической статистике](https://www.youtube.com/watch?v=ql7qeI85n5Q)
 
 ## UI
 
