@@ -90,6 +90,7 @@
 12. [Момент истины о моменте инерции](https://www.youtube.com/watch?v=QZA-yNZ6WQo)
 13. [О теории вероятностей и классической статистике](https://www.youtube.com/watch?v=ql7qeI85n5Q)
 14. [Про функции распределения Максвелла](https://www.youtube.com/watch?v=OycqnSZsb6g)
+15. [Про обобщения функции распределения Максвелла](https://www.youtube.com/watch?v=3vqzDwONHew)
 
 ## UI
 
