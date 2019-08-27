@@ -92,6 +92,7 @@
 13. [О теории вероятностей и классической статистике](https://www.youtube.com/watch?v=ql7qeI85n5Q)
 14. [Про функции распределения Максвелла](https://www.youtube.com/watch?v=OycqnSZsb6g)
 15. [Про обобщения функции распределения Максвелла](https://www.youtube.com/watch?v=3vqzDwONHew)
+16. [Про реальные газы и термодинамику](https://www.youtube.com/watch?v=5jUlB0tDSVk)
 
 ## UI
 
