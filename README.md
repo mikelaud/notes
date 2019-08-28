@@ -93,6 +93,7 @@
 14. [Про функции распределения Максвелла](https://www.youtube.com/watch?v=OycqnSZsb6g)
 15. [Про обобщения функции распределения Максвелла](https://www.youtube.com/watch?v=3vqzDwONHew)
 16. [Про реальные газы и термодинамику](https://www.youtube.com/watch?v=5jUlB0tDSVk)
+17. [Про электрический заряд](https://www.youtube.com/watch?v=hUoJPVHusVY)
 
 ## UI
 
