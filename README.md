@@ -95,6 +95,7 @@
 16. [Про реальные газы и термодинамику](https://www.youtube.com/watch?v=5jUlB0tDSVk)
 17. [Про электрический заряд](https://www.youtube.com/watch?v=hUoJPVHusVY)
 18. [О законе Кулона и электрическом поле](https://www.youtube.com/watch?v=3feUnwru76k)
+19. [Отвечает на вопросы зрителей и вопросы Богу](https://www.youtube.com/watch?v=cZNc4vWseCU)
 
 ## UI
 
