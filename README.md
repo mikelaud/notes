@@ -96,6 +96,7 @@
 17. [Про электрический заряд](https://www.youtube.com/watch?v=hUoJPVHusVY)
 18. [О законе Кулона и электрическом поле](https://www.youtube.com/watch?v=3feUnwru76k)
 19. [Ответы на вопросы зрителей и вопросы Богу](https://www.youtube.com/watch?v=5pKBNYZUbrE)
+20. [Ротор, дивергенция и градиент](https://www.youtube.com/watch?v=D5n_Z2VoXjc)
 
 ## UI
 
