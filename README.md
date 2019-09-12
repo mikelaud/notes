@@ -100,6 +100,7 @@
 21. [Про математику и матаппарат](https://www.youtube.com/watch?v=re1Sa5LabYk)
 22. [Про комплексные числа и вектора](https://www.youtube.com/watch?v=cyVxTyObW08)
 23. [Про поля в веществе](https://www.youtube.com/watch?v=Fs2mD8X7rDo)
+24. [Про понятие производной и интеграла](https://www.youtube.com/watch?v=kPvYr9Cr1M8)
 
 ## UI
 
