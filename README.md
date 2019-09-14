@@ -102,6 +102,7 @@
 23. [Про поля в веществе](https://www.youtube.com/watch?v=Fs2mD8X7rDo)
 24. [Про понятие производной и интеграла](https://www.youtube.com/watch?v=kPvYr9Cr1M8)
 25. [Электростатические системы. Задачи](https://www.youtube.com/watch?v=z1LuS1KXybI)
+26. [Про поле в диэлектрике](https://www.youtube.com/watch?v=W_zv8Uu6Xus)
 
 ## UI
 
