@@ -10,6 +10,7 @@
 #### [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Make Your Own Neural Network _(Tariq Rashid)_](https://www.amazon.com/gp/product/1530826608)
 - [Grokking Deep Learning _(Andrew Trask)_](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
+- [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play _(David Foster)_](https://www.amazon.com/gp/product/B07TWT9VN6)
 
 #### [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design _(Richard Dawkins)_](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491)
