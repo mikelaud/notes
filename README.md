@@ -113,4 +113,5 @@
 
 ## Philosophic
 1. [Thinking, Fast and Slow _(Daniel Kahneman)_](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-2. [Skin in the Game _(Nassim Nicholas Taleb)_](https://www.amazon.com/gp/product/042528462X)
+2. [Antifragile _(Nassim Nicholas Taleb)_](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/1400067820)
+3. [Skin in the Game _(Nassim Nicholas Taleb)_](https://www.amazon.com/gp/product/042528462X)
