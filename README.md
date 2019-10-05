@@ -112,7 +112,9 @@
 2. [Уроки VUE-CLI 3 и компоненты учим за 1 час для начинающих с нуля](https://www.youtube.com/watch?v=4O1twLpg-7A)
 
 ## Philosophic
+
 1. [Thinking, Fast and Slow _(Daniel Kahneman)_](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-2. [Fooled by Randomness _(Nassim Nicholas Taleb)_](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936)
-3. [Antifragile _(Nassim Nicholas Taleb)_](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/1400067820)
-4. [Skin in the Game _(Nassim Nicholas Taleb)_](https://www.amazon.com/gp/product/042528462X)
+2. [The Black Swan _(Nassim Nicholas Taleb)_](https://www.amazon.com/Black-Swan-Impact-Improbable-Incerto/dp/1400063515)
+3. [Fooled by Randomness _(Nassim Nicholas Taleb)_](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936)
+4. [Antifragile _(Nassim Nicholas Taleb)_](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/1400067820)
+5. [Skin in the Game _(Nassim Nicholas Taleb)_](https://www.amazon.com/gp/product/042528462X)
