@@ -115,7 +115,7 @@
 
 1. [The Undoing Project _(Michael Lewis)_](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593)
 2. [Thinking, Fast and Slow _(Daniel Kahneman)_](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-3. [The Black Swan _(Nassim Nicholas Taleb)_](https://www.amazon.com/Black-Swan-Impact-Improbable-Incerto/dp/1400063515)
-4. [Fooled by Randomness _(Nassim Nicholas Taleb)_](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936)
+3. [Fooled by Randomness _(Nassim Nicholas Taleb)_](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936)
+4. [The Black Swan _(Nassim Nicholas Taleb)_](https://www.amazon.com/Black-Swan-Impact-Improbable-Incerto/dp/1400063515)
 5. [Antifragile _(Nassim Nicholas Taleb)_](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/1400067820)
 6. [Skin in the Game _(Nassim Nicholas Taleb)_](https://www.amazon.com/gp/product/042528462X)
