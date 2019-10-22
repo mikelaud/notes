@@ -1,6 +1,7 @@
 # Notes
 
 ## [FinTech](https://en.wikipedia.org/wiki/Financial_technology)
+- [AI Pioneers in Investment Management](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
 
 ## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [How to Create a Mind: The Secret of Human Thought Revealed _(Ray Kurzweil)_](https://www.amazon.com/How-Create-Mind-Thought-Revealed-dp-0670025291/dp/0670025291)
