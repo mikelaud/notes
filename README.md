@@ -1,5 +1,7 @@
 # Notes
 
+- [Компания Mozilla представила систему синтеза речи LPCNet](https://www.opennet.ru/opennews/art.shtml?num=49639)
+
 ## [FinTech](https://en.wikipedia.org/wiki/Financial_technology)
 - [AI Pioneers in Investment Management](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
 
