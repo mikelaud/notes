@@ -56,6 +56,8 @@
 
 ## [User Interface](https://en.wikipedia.org/wiki/User_interface)
 
+- [Single Page Web Applications: JavaScript end-to-end ](https://www.amazon.com/Single-Page-Applications-end-end/dp/1617290750)
+
 #### [3D](https://en.wikipedia.org/wiki/3D_computer_graphics)
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages _(Tony Parisi)_](https://www.amazon.com/gp/product/1449362966/)
 - [WebGL: Up and Running: Building 3D Graphics for the Web _(Tony Parisi)_](https://www.amazon.com/WebGL-Running-Building-Graphics-Web-dp-144932357X/dp/144932357X/)
