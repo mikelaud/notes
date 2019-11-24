@@ -1,0 +1,2 @@
+- [Comet (programming)](https://en.wikipedia.org/wiki/Comet_(programming))
+- [Creative destruction](https://en.wikipedia.org/wiki/Creative_destruction)
