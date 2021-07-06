@@ -1,5 +1,6 @@
 # Notes
 
+- [Hi-Tech Notes](hi-tech-notes)
 - [Компания Mozilla представила систему синтеза речи LPCNet](https://www.opennet.ru/opennews/art.shtml?num=49639)
 - [Проект Mozilla выпустил открытую систему распознавания речи](https://www.opennet.ru/opennews/art.shtml?num=47648)
 
